@@ -5,7 +5,7 @@ navigation using the iRobot® Create® 3 Roomba Robot. Our goala were to do the 
 
 - Acquire the skills to program a robot for autonomous navigation to a destination, including
 understanding and applying sensor data for real-time navigation decisions.
--Developing algorithms for a robot to detect obstacles and navigate around them effectively.
+- Developing algorithms for a robot to detect obstacles and navigate around them effectively.
 - Crafting algorithms that enable a robot to dynamically alter its path based on environmental feedback,
 simulating real-world navigation scenarios.
 - Sharpening the ability to identify and solve programming and operational issues in autonomous systems.
