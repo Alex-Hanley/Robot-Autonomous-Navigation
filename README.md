@@ -1,7 +1,7 @@
 # Robot-Autonomous-Navigation
 
 In this lab, our focus was on understanding and implementing software that enables intelligent autonomous
-navigation using the iRobot® Create® 3 Roomba Robot. Our goala were to do the following:
+navigation using the iRobot® Create® 3 Roomba Robot. Our goals were to do the following:
 
 - Acquire the skills to program a robot for autonomous navigation to a destination, including
 understanding and applying sensor data for real-time navigation decisions.
